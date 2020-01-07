@@ -1,6 +1,7 @@
 # Stock Price Dashboard
-Implement an interactive dashboard that will showcase a time series graph that shows stock prices according to the
-stock company names in USA (dropdown menu) and the range of date(start and end date selector).
+Implement an interactive dashboard that will showcase a time series graph that shows stock prices according to two parameters:
+1) Stock company names in USA (dropdown menu)
+2) Range of date (start and end date selector)
 
 ### Dependencies
 ```
