@@ -9,5 +9,5 @@ pip install matplotlib
 pip install pandas
 pip install numpy
 pip install dash
-pip install plotly
+pip install plotly 
 ```
